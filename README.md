@@ -1,7 +1,12 @@
-<<<<<<< HEAD
-15/08   Actualización del Logo como Home 
-        Arreglo de la base de Datos json
-=======
-Entrega de Francisco Roldán
-Comisión 55735
->>>>>>> 482ba00a8ec3a0c074a01d52832fbba47769db09
+
+Actualizaciones:
+
+- 18/07 - 
+*Se inicia con npm start porque no tiene Vite
+
+*Se pudo hacer el Cart y el Cart Total , donde se trae tanto los elementos al Carrito como hacer la lògica de suma del Carrito. 
+
+*Esta hecha la comunicación con las rutas 
+
+
+*Clickear en el brand debe navegar a ‘/’ - Esta OK ! Se cliquea el Logo y vulve a Home ! si es esa la premisa !
